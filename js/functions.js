@@ -9,6 +9,8 @@
         $('[data-toggle="tooltip"]').tooltip()
     });
 
+
+    
     $(".mobile-menu-icon").click(function (event) {
         event.preventDefault();
     });
